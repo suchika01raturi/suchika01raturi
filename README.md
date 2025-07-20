@@ -13,7 +13,7 @@ Hey! I’m Suchika Raturi, a developer who enjoys building cool digital stuff.
 
 ### Tech Stack
 
-#### 🧠 Languages
+#### Languages
 <p align="left">
   <img class="icon-hover" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" title="HTML" />&nbsp;
   <img class="icon-hover" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" title="CSS" />&nbsp;
@@ -24,7 +24,7 @@ Hey! I’m Suchika Raturi, a developer who enjoys building cool digital stuff.
   <img class="icon-hover" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" title="PHP" />&nbsp;
 </p>
 
-#### 🔧 Tools & Platforms
+#### Tools & Platforms
 <p align="left">
   <img class="icon-hover" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git" />&nbsp;
   <img class="icon-hover" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub" />&nbsp;
@@ -33,7 +33,7 @@ Hey! I’m Suchika Raturi, a developer who enjoys building cool digital stuff.
   <img class="icon-hover" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL" />&nbsp;
 </p>
 
-#### 🤖 Machine Learning Libraries
+#### Machine Learning Libraries
 <p align="left">
   <img class="icon-hover" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy" title="NumPy" />&nbsp;
   <img class="icon-hover" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" title="Pandas" />&nbsp;
