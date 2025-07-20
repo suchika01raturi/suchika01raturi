@@ -50,7 +50,7 @@ Hey! I’m Suchika Raturi, a developer who enjoys building cool digital stuff.
 ## Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/suchikaraturi" target="_blank">
+  <a href="https://www.linkedin.com/in/suchikaraturi" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
   &nbsp;&nbsp;
