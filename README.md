@@ -64,19 +64,6 @@ Hey! I’m Suchika Raturi, a developer who enjoys building cool digital stuff.
 </p>
 
 
-
-
-## Pinned Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔗 [Currency Converter 💱](https://github.com/sahilsama/Currency-Converter-Java) | A Java app to convert currencies with GUI using AWT & Swing | `Java`, `Swing`, `AWT` |
-| 🔗 [Car Price Predictor 🚗](https://github.com/sahilsama/Car-Price-Predictor-ML) | ML project to predict car prices with frontend | `Python`, `ML`, `Tkinter`, `HTML` |
-| 🔗 [Portfolio Website 💻](https://github.com/sahilsama/Portfolio) | A personal developer portfolio made with HTML, CSS & JS | `HTML`, `CSS`, `JavaScript` |
-| 🔗 [EcoTourism Hackathon Site 🌿](https://github.com/sahilsama/EcoTourism-Site) | Education & visualization of eco tourism | `HTML`, `CSS`, `JS` |
-
-
-
 ## Fun Fact  
 > I used an app from Play Store to control a Bluetooth skateboard—and it still worked like a charm. <br>
 > Also... chai fuels both my mind and my debugging session!
