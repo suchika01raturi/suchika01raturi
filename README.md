@@ -65,7 +65,7 @@ Hey! I’m Suchika Raturi, a developer who enjoys building cool digital stuff.
 
 
 ## Fun Fact  
-- One time, I controlled a Bluetooth skateboard using a random app from the Play Store and shockingly, it worked perfectly. 
+- One time, I controlled a Bluetooth skateboard using a random app from the Playstore and shockingly, it worked perfectly. 
 - I often find myself talking to my code out loud and weirdly enough it behaves better afterward. I think you should try that too sometime :)
 
 <p align="center">
