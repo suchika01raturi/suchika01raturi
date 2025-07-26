@@ -11,7 +11,8 @@ Hey! I’m Suchika Raturi, a developer who enjoys building cool digital stuff.
 &nbsp; &nbsp; There's nothing better than riding through winding hill roads with a warm cup of chai :)
 
 
-###
+### Tech Stack
+
 #### Languages
 <p align="left">
   <img class="icon-hover" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" title="HTML" />&nbsp;
