@@ -8,7 +8,7 @@ Hey! I’m Suchika Raturi, a developer who enjoys building cool digital stuff.
 - CSE undergrad from Dehradun.
 - I love solving real world problems through code.
 - Beside the tech side, I’m a mountain person at heart.  
-&nbsp; &nbsp; There's nothing better than riding through winding hill roads with a warm cup of chai :)
+&nbsp; &nbsp; There's nothing better than riding through winding hill roads with a warm cup of chai
 
 
 ### Tech Stack
