@@ -4,10 +4,7 @@
 
 
 ## About Me  
-Hey! I’m Suchika Raturi, a developer who enjoys building cool digital stuff. 
-- CSE undergrad from Dehradun.
-- I love solving real world problems through code.
-- Beside the tech side, I’m a mountain person at heart.  
+Hey! I’m Suchika Raturi, a final year B.Tech Computer Science student at Graphic Era Deemed To Be University, Dehradun.
 
 ### Tech Stack
 
