@@ -59,10 +59,6 @@ Hey! I’m Suchika Raturi, a final year B.Tech Computer Science student at Graph
 </p>
 
 
-## Fun Fact  
-- One time, I controlled a Bluetooth skateboard using a random app from the Playstore and shockingly, it worked perfectly. 
-- I often find myself talking to my code out loud and weirdly enough it behaves better afterward. I think you should try that too sometime :)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!&center=true&color=9f79ee&size=30" />
 </p>
