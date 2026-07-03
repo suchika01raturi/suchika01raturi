@@ -36,10 +36,6 @@ Hey! I’m Suchika Raturi, a final year B.Tech Computer Science student at Graph
 </p>
 
 
-## Currently Learning 
-
--  ReactJS 
-- TypeScript (next goal!)
 
 
 ## Connect With Me
